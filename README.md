@@ -1,4 +1,7 @@
 # Chimmy's Room
+
+![repository-image](https://repository-images.githubusercontent.com/293173186/36094980-f6a0-11ea-9797-206a4d6d33b1)
+
 A small interactive platformer/adventure to explore Chimmy's Room - A pink and lavish experience. Play as Meddy, a tiny infiltrator, to hike through Chimmy's room and collect as many PomPoms as possible!
 
 What started out as a level design project turned out to become a pretty neat, small indie platformer. This project still mainly serves as a display of level design, but with some interactive elements to it. It is supposed to showcase my ability to put together a complete level using a multitude of pre-existing asset libraries as well as custom game mechanics.
